@@ -34,8 +34,9 @@ Son los programas que no tienen que ver con el funcionamiento del equipo, sino q
 es un programa  que permite al sistema operativo interactuar con un periférico, haciendo una abstracción del hardware y proporcionando una interfaz para utilizar el dispositivo.
 #### Software de desarrollo:
   es una estructura aplicada al desarrollo de un producto de software.
-  
-![alt text](image-2.png)
+
+![CPU](image-2.png)
+
 ## PREGUNTAS 
 ###	¿Cuál es la función principal de cada componente investigado?
 Respondida.
