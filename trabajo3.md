@@ -2,7 +2,7 @@
 ## Joan David García Sánchez
 ### Problema #4
 
-Inicio
+ Inicio
     Definir lista_velocidades
     Definir lista_tiempos
 
@@ -20,4 +20,4 @@ Inicio
         sumar distancia_total a distancia e igualar a distancia_total
 
     Imprimir distancia_total
-Fin
+ Fin
