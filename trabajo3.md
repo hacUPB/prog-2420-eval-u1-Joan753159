@@ -2,6 +2,7 @@
 ## Joan David García Sánchez
 ### Problema #4
 
+```
  Inicio
     Definir lista_velocidades
     Definir lista_tiempos
@@ -21,3 +22,4 @@
 
     Imprimir distancia_total
  Fin
+```
