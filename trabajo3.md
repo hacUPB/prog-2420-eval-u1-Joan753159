@@ -23,3 +23,29 @@
     Imprimir distancia_total
  Fin
 ```
+### Problema #1
+
+``` 
+Inicio
+    Definir n1=0
+    Definir K=30
+
+ Leer n
+  Definir n=5
+
+  Mientras 5>0
+    Leer C
+    m=m+c
+ Fin mientras
+
+  p=m/n
+
+ Si p mayor o igual a 3
+  Imprimir "fue aprobado"
+
+ Si p no es mayor o igual a 3
+  Imprimir "reprobado"
+
+Fin
+```
+
