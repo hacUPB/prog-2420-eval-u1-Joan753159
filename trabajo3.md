@@ -62,8 +62,7 @@ leer dia_naci, mes_naci, año_naci, mes_actu, año_actu, dia_actu
         (mes_actu == mes_naci Y dia_actu < dia_naci) Entonces
         años == años - 1
         imprimir "No has cumplido años."
-// Esta parte no la entendí: Cómo hago para hacer los 2 procesos en paralelo
-//lUego se calculan los meses:
+//luego se calculan los meses:
 Si (mes_actu >= mes_naci) entoces
     meses = mes_actu - mes_naci
 FinSi
